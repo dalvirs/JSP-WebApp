@@ -1,0 +1,1 @@
+This project is a web based application version of JDBC app. This Java application creates a table with random data on a remote server when it starts. The data comes from a text  file(customers.dat) separated by '|'. The application process the file and stores the data to the database.
