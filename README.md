@@ -1,3 +1,4 @@
 This project is a web based application version of JDBC app except the table already exists in database populated with random data. This application runs on JBoss application server. The home page is just a welcome page with one button to continue to main page. The main page loads the data from the table on remote server and displays on the webpage. User can edit any information in a row(except member ID) and update it by clicking on update button of that row. User can also delete the row by clicking on delete button. If user wants to add another row of information, it can be done by filling up the form in last row and clicking on insert button. The clear button clears up the data in last row.
-![Screenshot 2022-03-02 132432](https://user-images.githubusercontent.com/32446674/156456545-875d0c4a-3ad2-43f3-8046-7c72716f8dba.png)
 ![Screenshot 2022-03-02 130846](https://user-images.githubusercontent.com/32446674/156456547-767560a2-7a03-428e-bf85-3a2ced28f78c.png)
+![Screenshot 2022-03-02 132432](https://user-images.githubusercontent.com/32446674/156456545-875d0c4a-3ad2-43f3-8046-7c72716f8dba.png)
+
